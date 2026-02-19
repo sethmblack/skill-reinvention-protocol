@@ -3,7 +3,7 @@ name: reinvention-protocol
 description: Systematically reinvent creative practice when current approach has become comfortable, successful, or recognized—before stagnation sets in.
 license: MIT
 metadata:
-  version: 1.0.4824
+  version: 1.0.4825
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
